@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fastify": "^4.6.0"
+  },
+  "devDependencies": {
+    "supertest": "^6.2.4"
+  }
+}
